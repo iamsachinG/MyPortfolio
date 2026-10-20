@@ -8,7 +8,6 @@ Hi, I'm Sachin Gupta, a BCA student at Thakur College of Engineering & Technolog
 
 I'm passionate about Full Stack Development and enjoy building modern, responsive, and user-friendly web applications. Currently, I'm focusing on React, Node.js, Express.js, MongoDB, and modern web technologies while continuously improving my development skills.
 
-My long-term goal is to become a skilled software developer and eventually build my own technology business.
 
 ---
 
