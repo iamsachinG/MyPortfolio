@@ -1,95 +1,122 @@
 <h1 align="center">Sachin Gupta</h1>
 
-<h3 align="center">Full Stack Developer | BCA Student | Tech Enthusiast</h3>
+<h3 align="center">Full Stack Developer | BCA Student | Automation Enthusiast</h3>
 
 <p align="center">
-  <a href="https://sachin-portfolio-nine-topaz.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="https://github.com/iamsachinG">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+  <a href="https://sachin-portfolio-nine-topaz.vercel.app/">Portfolio</a> •
+  <a href="https://github.com/iamsachinG">GitHub</a> •
+  <a href="https://linkedin.com/in/iamsaching">LinkedIn</a> •
+  <a href="mailto:guptasachin6299@gmail.com">Email</a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-Hey! I'm **Sachin Gupta**, a BCA student at **Thakur College of Engineering & Technology (TCET), Mumbai**.
+I'm **Sachin Gupta**, a Bachelor of Computer Applications (BCA) student at **Thakur College of Engineering & Technology (TCET), Mumbai**.
 
-I'm interested in building modern web applications, exploring new technologies, and turning ideas into practical solutions.
+I enjoy building web applications, automating repetitive tasks, and exploring modern development technologies.
 
-- 🎓 Pursuing Bachelor of Computer Applications (BCA).
-- 💻 Interested in Full Stack Development.
-- ⚡ Working with React.js, Node.js, and modern web technologies.
-- 🧠 Exploring AI, automation, and backend development.
-- 🚀 Always learning, experimenting, and building.
-
----
-
-## 🛠️ Tech Stack
-
-**Frontend**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,vite" />
-</p>
-
-**Backend & Database**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
-</p>
-
-**Tools & Platforms**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel" />
-</p>
+- 🎓 BCA Student at TCET, Mumbai (2024–2027)
+- 💻 Interested in Full Stack Development and Automation
+- 🤖 Exploring AI-powered development tools
+- ⚡ Experience with REST APIs, backend development, and databases
+- 📊 Research Head at Zephyr 2025, TCET
 
 ---
 
-## 🚀 Featured Projects
+## Technical Skills
 
-| Project | Description |
+| Category | Technologies |
 |---|---|
-| 🍃 **The Leaf** | Modern web application with a clean and responsive interface. |
-| 🌦️ **Weather App** | Displays real-time weather information using external APIs. |
-| 🐱 **MeowFacts** | Fun application that fetches and displays random cat facts. |
-
-Explore more projects on my [GitHub profile](https://github.com/iamsachinG).
-
----
-
-## 🌐 Portfolio
-
-Want to explore my work, projects, skills, and experience?
-
-<p align="center">
-  <a href="https://sachin-portfolio-nine-topaz.vercel.app/">
-    <img src="https://img.shields.io/badge/Explore%20My%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-</p>
+| Languages | Python, JavaScript, C#, SQL, HTML, CSS |
+| Backend | Node.js, .NET, Express.js |
+| Frontend | React.js, Tailwind CSS, Bootstrap |
+| Database | MongoDB, SQL |
+| Developer Tools | Git, GitHub, Vercel, npm, Vite, Selenium |
+| Concepts | REST APIs, Microservices, OOP, SDLC, DBMS, CI/CD |
+| AI Tools | OpenAI Codex, Claude Code, Antigravity |
+| IDEs | Visual Studio, Eclipse |
 
 ---
 
-## 📬 Let's Connect
+## Featured Projects
 
-<p align="center">
-  <a href="mailto:guptasachin6299@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/iamsachinG">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+### 1. YouTube Unsubscriber
+
+A lightweight JavaScript automation utility that bulk-unsubscribes from YouTube channels directly through the browser console.
+
+- No installation required.
+- Automates DOM interactions.
+- Processes multiple subscriptions.
+- Open-source under GPL-3.0.
+
+**Tech:** JavaScript, DOM Automation
+
+### 2. Username Availability
+
+A full-stack username availability and registration service.
+
+- Real-time username availability checks.
+- Username normalization and validation.
+- Conflict-safe registration.
+- HTTP 409 handling for duplicate usernames.
+- MongoDB Atlas integration.
+
+**Tech:** Node.js, Express.js, MongoDB, Mongoose, Vercel
+
+### 3. Weather App
+
+A responsive weather forecasting application that fetches real-time weather information.
+
+- Search weather by city.
+- Real-time weather information.
+- OpenWeatherMap API integration.
+- Error handling for invalid cities and failed requests.
+
+**Tech:** JavaScript, HTML, CSS, OpenWeatherMap API
 
 ---
 
+## Experience
+
+### Research Head | Zephyr 2025
+**Thakur College of Engineering & Technology**
+
+August 2025 – October 2025
+
+- Managed research and content for 20+ technical fest events.
+- Established data collection standards adopted by 5 coordinating teams.
+- Designed structured JSON schemas for event listings.
+- Integrated event metadata into the production website.
+
+---
+
+## Education
+
+**Bachelor of Computer Applications (BCA)**
+
+Thakur College of Engineering & Technology (TCET), Mumbai
+
+2024 – 2027 | CGPA: 8.18
+
+---
+
+## Certifications
+
+- React Crash Course: From Zero to Hero | Udemy
+
+---
+
+## Connect With Me
+
 <p align="center">
-  <i>"Building things, breaking things, and learning along the way."</i>
+  <a href="mailto:guptasachin6299@gmail.com">Email</a> •
+  <a href="https://github.com/iamsachinG">GitHub</a> •
+  <a href="https://linkedin.com/in/iamsaching">LinkedIn</a> •
+  <a href="https://sachin-portfolio-nine-topaz.vercel.app/">Portfolio</a>
 </p>
 
 <p align="center">
-  ⭐ Thanks for visiting my portfolio!
+  <i>Learning, building, automating, and improving every day.</i>
 </p>
