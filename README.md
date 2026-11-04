@@ -43,9 +43,6 @@ I'm passionate about Full Stack Development and enjoy building modern, responsiv
 
 ## 📂 Featured Projects
 
-### 🌿 Trimbak Organic
-Business website developed for an organic products brand with a responsive and modern user interface.
-
 ### 🍃 The Leaf
 Modern web application focused on clean UI and responsive design.
 
